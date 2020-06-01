@@ -1,5 +1,5 @@
 # Mock Security
-This project was created for *CSCI-UA 9480*, Introduction to Computer Security. I performed four different attacks on DVWA, the Damn Vulnerable Web Application. Full report available as a PDF.
+This project was created for *CSCI-UA 9480*, Introduction to Computer Security. I performed four different attacks on DVWA, the Damn Vulnerable Web Application. Full report available in PDF.
 
 #### Attack 1: Blind SQL Injection  
 For the first attack I use a blind SQL injection to steal users’ authentication information from the DVWA database. The attack is similar to a regular SQL injection except little to no feedback is displayed onscreen, so I have to do more guessing. For this I use Burp Suite and the SQL injection tool SQLMap. 
